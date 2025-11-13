@@ -14,7 +14,7 @@ O modelo aprende a converter valores em °C para °F a partir de dados gerados c
 ---
 
 ##  Estrutura do código
-O script `rede_neural_linear.py` contém:
+O script `main.py` contém:
 
 - Geração de dados sintéticos (`Curva_Linear`)
 - Implementação manual do **feedforward**
