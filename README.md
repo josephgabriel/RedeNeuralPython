@@ -1,4 +1,4 @@
-egressão Linear do Zero em Python
+## Regressão Linear do Zero em Python
 
 Este projeto demonstra como construir uma **rede neural de uma única camada (regressão linear)** usando apenas **NumPy** e **Matplotlib** — sem frameworks de aprendizado de máquina.
 
@@ -24,3 +24,26 @@ O script `main.py` contém:
 - Visualização dos resultados em um gráfico
 
 ---
+
+## Como executar
+
+## 🚀 Como Executar o Projeto
+
+1. Clone este repositório:
+```bash
+git clone https://github.com/josephgabriel/RedeNeuralPython
+```
+2. Entre na pasta do projeto:
+```bash
+cd RedeNeuralPython
+```
+3. Instale as dependências:
+```bash
+pip install -r requirements.txt
+```
+4. Execute o código:
+```bash
+python3 main.py
+```
+---
+
